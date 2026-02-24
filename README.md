@@ -1,16 +1,13 @@
-## Hi there 👋
+##👋 Hola, soy Juan Alejandro Jiménez
 
-<!--
-**VOIDxLn/VOIDxLn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack en formación  
+🚀 React | Node.js | PostgreSQL  
 
-Here are some ideas to get you started:
+## 📌 Proyectos Destacados
+- Plataforma de reservas (Laravel + Docker)
+- Plataforma de aprendizaje (React + Tailwind)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+Email: juandedsec@gmail.com
+LinkedIn: [(link)](https://www.linkedin.com/in/juan-alejandro-jiménez-mendoza-9b25972b2/?isSelfProfile=true)
+Phone: +57 3174783639
