@@ -1,4 +1,4 @@
-##👋 Hola, soy Juan Alejandro Jiménez
+## 👋 Hola, soy Juan Alejandro Jiménez
 
 💻 Desarrollador Full Stack en formación  
 🚀 React | Node.js | PostgreSQL  
